@@ -1,0 +1,12 @@
+{
+  "name": "peeky",
+  "private": true,
+  "description": "Mini site pour apprendre Valorant",
+  "scripts": {
+    "dev": "node scripts/dev-server.mjs",
+    "update-data": "node scripts/update-game-data.mjs"
+  },
+  "devDependencies": {
+    "sharp": "^0.34.5"
+  }
+}
