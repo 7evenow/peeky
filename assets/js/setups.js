@@ -23,5 +23,27 @@ const SETUPS = {
         }
       ]
     }
+  ],
+  "sunset": [
+    {
+      "id": "5fzdvg",
+      "title": "Setup 1",
+      "side": "attaque",
+      "note": "",
+      "items": [
+        {
+          "type": "smoke",
+          "agent": "clove",
+          "x": 0.6963,
+          "y": 0.3232
+        },
+        {
+          "type": "smoke",
+          "agent": "clove",
+          "x": 0.8252,
+          "y": 0.2832
+        }
+      ]
+    }
   ]
 };
