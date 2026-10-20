@@ -62,7 +62,7 @@ const CONTENT = {
             {
               type: "note",
               text:
-                "Avant les maps : savoir où placer son viseur et comment s'arrêter pour tirer. C'est 80 % des duels gagnés en bas elo. Les deux sections juste en dessous d'abord, les maps après.",
+                "Avant les maps : savoir où placer son viseur et comment s'arrêter pour tirer. C'est 80 % des duels gagnés en bas elo. Les sections juste en dessous d'abord, dans l'ordre, les maps après.",
             },
           ],
         },
@@ -89,6 +89,19 @@ const CONTENT = {
               title: "Entraîner son mouvement",
               note:
                 "korey — s'arrêter net avant de tirer, strafe, contre-strafe. À regarder juste après le crosshair placement.",
+            },
+          ],
+        },
+        {
+          title: "Peek",
+          open: true,
+          items: [
+            {
+              type: "video",
+              id: "Vo67VMCQraA",
+              title: "Bien peek, c'est plus simple qu'on croit",
+              note:
+                "Slayerkey — comment sortir d'un angle sans se faire punir. À regarder après le mouvement : les deux vont ensemble.",
             },
           ],
         },
